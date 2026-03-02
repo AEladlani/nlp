@@ -6,7 +6,7 @@ PDF Source
 
 Document: Sample Research Report
 
-URL: Sample Research Report PDF
+URL: https://content.vu.edu.au/sites/default/files/sample-research-report.pdf
 
 Description: A research report containing multiple sections of structured text, which can be queried using RAG.
 
